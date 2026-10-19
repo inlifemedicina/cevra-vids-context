@@ -18,3 +18,13 @@ O contexto da skill fica em [cevra-skill-context](https://github.com/inlifemedic
 Não há código-fonte, mídia, credenciais, projetos pessoais, logs brutos ou
 artefatos executáveis neste repositório. Nenhum teste ou render novo foi feito
 para produzir este resumo; os resultados técnicos citados são históricos.
+
+## Retomada e manutenção econômica
+
+Após reset, leia este README e depois [STATUS](STATUS.md); consulte os detalhes
+dos projetos atuais apenas quando necessários à ação. Registre somente decisões
+importantes, blocos fechados e novas pendências, com versão, limite de evidência
+e próximo passo. Consolide incrementalmente uma vez por semana se houver novidades;
+antes de reset antecipado, faça a atualização final mínima. Sem novidade, não
+republique o histórico nem repita testes para alimentar contexto. Este plano não
+cria automação; não dispensa instruções obrigatórias dos projetos de origem.
