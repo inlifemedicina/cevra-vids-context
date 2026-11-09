@@ -51,9 +51,10 @@ release do produto. Falhas históricas não são apagadas por este resumo.
   fechamento/reabertura e julgamento humano de UX. Está adiado, não aprovado.
 - Extensão experimental vertical: apresentação Tauri e julgamento visual mínimo
   permanecem pendentes no registro detalhado. Não promover flags/defaults.
-- Na skill: imagem/orientação/áudio/sync e um trecho na Mesa A original, além de
-  aceite de exportação pessoal no modo durável, permanecem separados dos testes
-  automatizados. Não inferir aceite do app a partir da skill.
+- Na skill, os aceites focais de fonte, orientação, áudio/sync, prévia/faixas,
+  histórico e alinhamento V1 foram registrados posteriormente. Exportação pessoal
+  durável segue sem aceite. A linha ativa é a durável; foundation é referência.
+  Consultar o contexto da skill. Esses aceites não constituem aceite do app.
 
 Não foi revalidada a atividade de nenhuma sessão humana durante a auditoria.
 Registros antigos de processo/porta não provam que a sessão continue ativa.
@@ -69,3 +70,9 @@ Registros antigos de processo/porta não provam que a sessão continue ativa.
 4. Atualizar este resumo com fatos verificados, distinguindo teste automatizado,
    aceite humano e bloqueios. Manter código, mídia e evidência privada nos locais
    apropriados; não publicar conversas integrais ou dados de sessões.
+
+## Consolidação incremental — 09/11/2026
+
+Os índices locais mantêm a expansão do Vids pausada e o R2 físico/UX pendente.
+A atualização acima corrige somente a referência à skill, com base nos índices
+e plano ativo de 19/10. Nenhum teste, instalação ou sessão foi reexecutado.
